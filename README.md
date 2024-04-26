@@ -1,16 +1,16 @@
-# dice
+# Dice
 
-A new Flutter project.
+this app is for rolling virtual dice at the touch of a button. Choose your dice type, roll with a tap, and settle any decision or game with ease. With realistic animation and offline functionality, Redicrip is the perfect companion for any situation where chance comes into play. 
 
-## Getting Started
+## Dice Preview
 
-This project is a starting point for a Flutter application.
+![MyCard Image](dice.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Installation
+
+To install MyCard, you need to have Flutter installed on your system.
+
