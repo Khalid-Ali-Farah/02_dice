@@ -12,5 +12,5 @@ this app is for rolling virtual dice at the touch of a button. Choose your dice 
 
 ## Installation
 
-To install MyCard, you need to have Flutter installed on your system.
+To install Dice, you need to have Flutter installed on your system.
 
