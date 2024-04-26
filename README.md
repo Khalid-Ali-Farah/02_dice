@@ -4,7 +4,7 @@ this app is for rolling virtual dice at the touch of a button. Choose your dice 
 
 ## Dice Preview
 
-![MyCard Image](dice.png)
+![MyCard Image](dice_gif.gif)
 
 
 
