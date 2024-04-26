@@ -1,8 +1,8 @@
 # Dice
 
-MyCard is a simple app designed to showcase a digital business card. It allows users to display their image, name, job title, and contact information easily.
+this app is for rolling virtual dice at the touch of a button. Choose your dice type, roll with a tap, and settle any decision or game with ease. With realistic animation and offline functionality, Redicrip is the perfect companion for any situation where chance comes into play. 
 
-## MyCard Preview
+## Dice Preview
 
 ![MyCard Image](dice.png)
 
